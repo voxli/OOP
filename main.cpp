@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const double Eps = 10E-13;
+const double Eps = 10E-10;
 
 int main()
 {
